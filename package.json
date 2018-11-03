@@ -21,10 +21,13 @@
   },
   "homepage": "https://github.com/hlmitchell/Climbing#readme",
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.16.4",
     "path": "^0.12.7",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
     "webpack": "^4.24.0"
   },
   "devDependencies": {
